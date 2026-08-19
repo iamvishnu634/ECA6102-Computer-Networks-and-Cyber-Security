@@ -1,0 +1,4 @@
+﻿[2026-08-19 10:15:21] FAILED LOGIN - User: admin - Source IP: 192.168.1.50
+[2026-08-19 10:15:35] FAILED LOGIN - User: admin - Source IP: 192.168.1.50
+[2026-08-19 10:16:02] FAILED LOGIN - User: admin - Source IP: 192.168.1.50
+[2026-08-19 10:17:10] SUCCESSFUL LOGIN - User: admin - Source IP: 192.168.1.50
